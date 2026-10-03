@@ -1,4 +1,12 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
+    background-color: firebrick;
+}
+
+header {
+    background-color: beige;
+    color: bisque;
+    padding: 10px;
+    text-align: center;
 }
